@@ -1,0 +1,8 @@
+name: tooling
+version: 0.1.0
+
+author: Oleksii Fedorov <waterlink000@gmail.com>
+license: MIT
+
+scripts:
+  postinstall: ./build.sh >/tmp/tooling.cr_postinstall 2>/tmp/tooling.cr_postinstall.err
