@@ -1,7 +1,9 @@
 name: tooling
 version: 0.1.0
 
-author: Oleksii Fedorov <waterlink000@gmail.com>
+authors:
+- Oleksii Fedorov <waterlink000@gmail.com>
+
 license: MIT
 
 scripts:
